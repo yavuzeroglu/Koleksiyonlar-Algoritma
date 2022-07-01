@@ -1,0 +1,15 @@
+C:\Users\fatih\Desktop\net-core\Collections-Algortihm\Odev-3\bin\Debug\net6.0\Odev-3.exe
+C:\Users\fatih\Desktop\net-core\Collections-Algortihm\Odev-3\bin\Debug\net6.0\Odev-3.deps.json
+C:\Users\fatih\Desktop\net-core\Collections-Algortihm\Odev-3\bin\Debug\net6.0\Odev-3.runtimeconfig.json
+C:\Users\fatih\Desktop\net-core\Collections-Algortihm\Odev-3\bin\Debug\net6.0\Odev-3.dll
+C:\Users\fatih\Desktop\net-core\Collections-Algortihm\Odev-3\bin\Debug\net6.0\Odev-3.pdb
+C:\Users\fatih\Desktop\net-core\Collections-Algortihm\Odev-3\obj\Debug\net6.0\Odev-3.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\net-core\Collections-Algortihm\Odev-3\obj\Debug\net6.0\Odev-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Desktop\net-core\Collections-Algortihm\Odev-3\obj\Debug\net6.0\Odev-3.AssemblyInfoInputs.cache
+C:\Users\fatih\Desktop\net-core\Collections-Algortihm\Odev-3\obj\Debug\net6.0\Odev-3.AssemblyInfo.cs
+C:\Users\fatih\Desktop\net-core\Collections-Algortihm\Odev-3\obj\Debug\net6.0\Odev-3.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\net-core\Collections-Algortihm\Odev-3\obj\Debug\net6.0\Odev-3.dll
+C:\Users\fatih\Desktop\net-core\Collections-Algortihm\Odev-3\obj\Debug\net6.0\refint\Odev-3.dll
+C:\Users\fatih\Desktop\net-core\Collections-Algortihm\Odev-3\obj\Debug\net6.0\Odev-3.pdb
+C:\Users\fatih\Desktop\net-core\Collections-Algortihm\Odev-3\obj\Debug\net6.0\Odev-3.genruntimeconfig.cache
+C:\Users\fatih\Desktop\net-core\Collections-Algortihm\Odev-3\obj\Debug\net6.0\ref\Odev-3.dll
